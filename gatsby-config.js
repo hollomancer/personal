@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'konsumer',
-    authorLink: 'https://github.com/konsumer',
-    disqus: 'gatsby-starter-blog'// put your disqus ID here
+    title: 'Conrad Hollomon',
+    author: 'Conrad Hollomon',
+    authorLink: 'https://github.com/hollomancer',
+    disqus: 'false'// put your disqus ID here
   },
   plugins: [
     {
