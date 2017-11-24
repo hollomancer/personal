@@ -2,6 +2,7 @@
 contentType: about
 path: /about
 title: About Me
+---
 
 Hi, I’m Conrad.
 
