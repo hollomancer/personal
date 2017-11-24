@@ -3,7 +3,7 @@ module.exports = {
     title: 'Conrad Hollomon',
     author: 'Conrad Hollomon',
     authorLink: 'https://github.com/hollomancer',
-    disqus: 'false'// put your disqus ID here
+    disqus: false // put your disqus ID here
   },
   plugins: [
     {
